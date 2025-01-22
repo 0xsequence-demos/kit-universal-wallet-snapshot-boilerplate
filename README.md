@@ -1,10 +1,10 @@
-# Sequence Kit Starter Boilerplate!
+# Sequence Kit Snapshot Boilerplate!
 
-A starter boilerplate to demonstrate Sequence Kit with Sequence Universal Wallet.
+A boilerplate to demonstrate Voting with Snapshot via Sequence Kit and Universal Wallet.
 
 ## Start Locally
 
-The app will start on localhost port 5173
+The app will start on localhost port 4444
 
 ```js
   pnpm install && pnpm dev

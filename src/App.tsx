@@ -13,9 +13,9 @@ const App = () => {
   // Get your own project access key on sequence.build
   const projectAccessKey = import.meta.env.VITE_KIT_ACCESS_KEY;
 
-  const connectors = getDefaultConnectors('universal', {
+  const connectors = getDefaultConnectors("universal", {
     walletConnectProjectId: "wallet-connect-id",
-    defaultChainId: 137,
+    defaultChainId: 1,
     appName: "demo app",
     projectAccessKey,
   });

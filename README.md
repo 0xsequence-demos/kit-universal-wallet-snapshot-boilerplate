@@ -1,3 +1,6 @@
+> [!WARNING]
+> Deprecated in favor of our [Snapshot Embedded Wallet Boilerplate](https://github.com/0xsequence-demos/kit-embedded-wallet-snapshot-boilerplate)
+
 # Sequence Kit Snapshot Boilerplate!
 
 A boilerplate to demonstrate Voting with Snapshot via Sequence Kit and Universal Wallet.
